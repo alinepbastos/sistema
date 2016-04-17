@@ -10,6 +10,8 @@ Requisitos:
 
 > MySQL;
 
+- Acesse o arquivo config/database.php para alterar as configurações de acesso ao banco de dados, caso necessário.
+
 - Carregue o arquivo 'script_banco.sql' no MySQL para criar a estrutura do banco de dados.
 
 - Para criar um contrato deve-se previamente cadastrar os Clientes e os Serviços.
